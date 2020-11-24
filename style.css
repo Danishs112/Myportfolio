@@ -1,0 +1,17 @@
+body {
+	margin:0;
+	padding:0;
+}
+
+nav div ul li a 
+{
+	margin-right: 8px;
+}
+
+.fa:hover {
+  color:#079992;
+}
+
+.fa {
+	color:#595959;
+}
